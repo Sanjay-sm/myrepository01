@@ -1,0 +1,6 @@
+com\springphonewebapp\springphonebookapp\contacts\ContactRepository.class
+com\springphonewebapp\springphonebookapp\contacts\ContactService.class
+com\springphonewebapp\springphonebookapp\contacts\Contacts.class
+com\springphonewebapp\springphonebookapp\contacts\ContactController.class
+com\springphonewebapp\springphonebookapp\contacts\ContactJpaController.class
+com\springphonewebapp\springphonebookapp\SpringPhonebookAppApplication.class
